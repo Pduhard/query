@@ -94,8 +94,6 @@ To do this, `useMutation`'s `onMutate` handler option allows you to return a val
 [//]: # 'Example'
 
 ```tsx
-const queryClient = useQueryClient()
-
 useMutation({
   mutationFn: updateTodo,
   // When mutate is called:
