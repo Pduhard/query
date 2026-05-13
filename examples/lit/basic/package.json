@@ -10,7 +10,7 @@
   "dependencies": {
     "@tanstack/lit-query": "^0.2.1",
     "@tanstack/query-core": "^5.100.10",
-    "lit": "^3.3.1"
+    "lit": "^3.3.2"
   },
   "devDependencies": {
     "typescript": "5.8.3",
